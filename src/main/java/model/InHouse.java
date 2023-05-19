@@ -1,6 +1,6 @@
-// Curtis Cheshire
-// ID: 010713063
-// cchesh3@wgu.edu
+// Curtis C
+// ID: *********
+// myemail@wgu.edu
 
 package model;
 
